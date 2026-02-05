@@ -37,6 +37,6 @@
                 wynik = ostatnia + new string(reszta);
             }
             Console.WriteLine("Wynik:" + wynik);
-        }
+        }// \Main   
     }
 }
