@@ -1,0 +1,14 @@
+C:\Users\netdr\source\repos\Poprawka1\Poprawka1\bin\Debug\net10.0\Poprawka1.exe
+C:\Users\netdr\source\repos\Poprawka1\Poprawka1\bin\Debug\net10.0\Poprawka1.deps.json
+C:\Users\netdr\source\repos\Poprawka1\Poprawka1\bin\Debug\net10.0\Poprawka1.runtimeconfig.json
+C:\Users\netdr\source\repos\Poprawka1\Poprawka1\bin\Debug\net10.0\Poprawka1.dll
+C:\Users\netdr\source\repos\Poprawka1\Poprawka1\bin\Debug\net10.0\Poprawka1.pdb
+C:\Users\netdr\source\repos\Poprawka1\Poprawka1\obj\Debug\net10.0\Poprawka1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netdr\source\repos\Poprawka1\Poprawka1\obj\Debug\net10.0\Poprawka1.AssemblyInfoInputs.cache
+C:\Users\netdr\source\repos\Poprawka1\Poprawka1\obj\Debug\net10.0\Poprawka1.AssemblyInfo.cs
+C:\Users\netdr\source\repos\Poprawka1\Poprawka1\obj\Debug\net10.0\Poprawka1.csproj.CoreCompileInputs.cache
+C:\Users\netdr\source\repos\Poprawka1\Poprawka1\obj\Debug\net10.0\Poprawka1.dll
+C:\Users\netdr\source\repos\Poprawka1\Poprawka1\obj\Debug\net10.0\refint\Poprawka1.dll
+C:\Users\netdr\source\repos\Poprawka1\Poprawka1\obj\Debug\net10.0\Poprawka1.pdb
+C:\Users\netdr\source\repos\Poprawka1\Poprawka1\obj\Debug\net10.0\Poprawka1.genruntimeconfig.cache
+C:\Users\netdr\source\repos\Poprawka1\Poprawka1\obj\Debug\net10.0\ref\Poprawka1.dll
