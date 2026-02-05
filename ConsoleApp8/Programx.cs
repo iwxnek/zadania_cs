@@ -116,7 +116,7 @@
                     }
                 }
                 Console.WriteLine("Liczby wylosowane najwiecej razy: " + string.Join(", ", najczestszeLiczby));
-            }
+            } 
 
 
 
