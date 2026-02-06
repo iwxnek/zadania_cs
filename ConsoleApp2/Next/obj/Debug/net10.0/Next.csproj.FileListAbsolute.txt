@@ -1,0 +1,15 @@
+C:\Users\netdr\OneDrive\Pulpit\zadania_cs\ConsoleApp2\Next\bin\Debug\net10.0\Next.exe
+C:\Users\netdr\OneDrive\Pulpit\zadania_cs\ConsoleApp2\Next\bin\Debug\net10.0\Next.deps.json
+C:\Users\netdr\OneDrive\Pulpit\zadania_cs\ConsoleApp2\Next\bin\Debug\net10.0\Next.runtimeconfig.json
+C:\Users\netdr\OneDrive\Pulpit\zadania_cs\ConsoleApp2\Next\bin\Debug\net10.0\Next.dll
+C:\Users\netdr\OneDrive\Pulpit\zadania_cs\ConsoleApp2\Next\bin\Debug\net10.0\Next.pdb
+C:\Users\netdr\OneDrive\Pulpit\zadania_cs\ConsoleApp2\Next\obj\Debug\net10.0\Next.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netdr\OneDrive\Pulpit\zadania_cs\ConsoleApp2\Next\obj\Debug\net10.0\Next.AssemblyInfoInputs.cache
+C:\Users\netdr\OneDrive\Pulpit\zadania_cs\ConsoleApp2\Next\obj\Debug\net10.0\Next.AssemblyInfo.cs
+C:\Users\netdr\OneDrive\Pulpit\zadania_cs\ConsoleApp2\Next\obj\Debug\net10.0\Next.csproj.CoreCompileInputs.cache
+C:\Users\netdr\OneDrive\Pulpit\zadania_cs\ConsoleApp2\Next\obj\Debug\net10.0\Next.sourcelink.json
+C:\Users\netdr\OneDrive\Pulpit\zadania_cs\ConsoleApp2\Next\obj\Debug\net10.0\Next.dll
+C:\Users\netdr\OneDrive\Pulpit\zadania_cs\ConsoleApp2\Next\obj\Debug\net10.0\refint\Next.dll
+C:\Users\netdr\OneDrive\Pulpit\zadania_cs\ConsoleApp2\Next\obj\Debug\net10.0\Next.pdb
+C:\Users\netdr\OneDrive\Pulpit\zadania_cs\ConsoleApp2\Next\obj\Debug\net10.0\Next.genruntimeconfig.cache
+C:\Users\netdr\OneDrive\Pulpit\zadania_cs\ConsoleApp2\Next\obj\Debug\net10.0\ref\Next.dll
